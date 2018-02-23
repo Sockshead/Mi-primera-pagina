@@ -1,0 +1,27 @@
+<!DOCTYPE hmtl>
+<hmtl>
+    <head>
+    <title>SocksHead</title>
+    <meta http-equiv="Content-Type" content="text/html ; charset=utf-8"/>
+    <meta name="Autor" content="Juan Camilo Posada">
+    <meta name="Nombre" content="Unidad 4">
+    <meta name="Descripcion" content="Mi pagina desarrollada para la materia de programacion para no programadores">
+    </head>
+
+    <body>
+    <h1 style="text-align:center;">Juan Camilo Posada</h1>
+    <div style="text-align: center">
+    <a href="https://imgur.com/RCSd2JI" ><img src="https://i.imgur.com/RCSd2JI.jpg" title="Juan Posada" style="width:250;height:300" /></a>
+    </div>
+    <h3 style="text-align:center;">Informacion personal</h3>
+    <p style="text-align:center;">
+    Hola, soy Juan Camilo Posada, tengo 21 años y me encuentro en cuarto semestre de ingenieria informatica en la Universidad de la Sabana<br>
+    <br><b>Hobbies:</b><br>
+    Me gusta mucho jugar rugby y por eso mismo hago parte de la seleccion de la universidad, ademas de esto tambien me gustan mucho los videojuegos y cualquier tema que tenga que ver con tecnologia en general.<br>
+    <br><b>Redes Sociales</b><br>
+    <a href="https://asockslife.wordpress.com">Mi blog personal</a><br>
+    <a href="https://www.facebook.com/choko.posada">Mi facebook</a><br>
+    <a href="https://twitter.com/JuanCPosadaA_">Mi twitter</a>
+    </p>
+    </body>
+</hmtl>
